@@ -19,4 +19,8 @@ Spotify
 Horloge
 ```
 
+# you can find theme here:
+
+https://github.com/NacreousDawn596/apps/releases 
+
 **enjoy! ^^**
